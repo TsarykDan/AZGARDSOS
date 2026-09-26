@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: azgardsos
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python SECURE.py
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
