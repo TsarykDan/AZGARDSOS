@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.client.session.aiohttp import AiohttpSession
 
 # --- НАЛАШТУВАННЯ AZGARD SOS + ---
-BOT_TOKEN = "8895175280:AAE-V0ka57FNqI5TSAzG6V_PxPJhkDrv8Z8"
+BOT_TOKEN = "8895175280:AAHBf5caEGWaD4swDrwXdrZkH4lxLlt6pQY"
 
 # Встав сюди ID, який дізнаєшся за інструкцією нижче:
 GROUP_CHAT_ID = -1004461095889  
